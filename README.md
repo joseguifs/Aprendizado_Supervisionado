@@ -103,7 +103,9 @@ Após executar o código, a pasta `resultados/` contém:
 
 ## 7. Entrega da atividade
 
-Entregue o arquivo `trabalho_mlp_iris.py` e um vídeo **de até 5 minutos**, mostrando o código, a execução e os resultados. Você pode usar `roteiro_video.md` como apoio. O vídeo deve ser gravado por você, e o conteúdo deve ser entendido antes da apresentação.
+A entrega da atividade contém o código-fonte (`trabalho_mlp_iris.py`) e o vídeo de apresentação, no qual explico o projeto, a implementação da rede neural MLP, a execução do programa e as métricas de avaliação.
+
+**Vídeo explicativo do projeto (YouTube):** https://www.youtube.com/watch?v=ihF7WpAv1-0
 
 ## Referências
 
